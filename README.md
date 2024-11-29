@@ -1,4 +1,4 @@
-# CSR (Command-Line Search and Replace)
+# CSR (Custom Search Resolver)
 
 A powerful command-line interface (CLI) tool designed to mimic and extend the functionalities of the standard Windows search function.
 
