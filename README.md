@@ -24,6 +24,9 @@ csr --size ">10MB" --path "C:\Users\Documents"
 
 # Search recursively with JSON output
 csr --name "*.txt" --recursive --output json
+
+# Search system-wide for large Python files
+csr --syswide --type "py" --size ">100MB"
 ```
 
 ## Options
@@ -35,6 +38,7 @@ csr --name "*.txt" --recursive --output json
 - `--modified`: Search for files by last modified date
 - `--path`: Specify the directory to search within
 - `--recursive`: Search recursively within directories
+- `--syswide`: Search across all drives on the PC (excludes system directories)
 - `--output`: Specify output format (table, list, or JSON)
 - `--help`: Display help information
 
