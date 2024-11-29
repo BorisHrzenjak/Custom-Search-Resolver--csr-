@@ -1,0 +1,2 @@
+[console_scripts]
+csr = csr.cli:main

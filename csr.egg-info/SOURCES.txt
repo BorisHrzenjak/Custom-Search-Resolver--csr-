@@ -1,0 +1,10 @@
+README.md
+setup.py
+csr/__init__.py
+csr/cli.py
+csr.egg-info/PKG-INFO
+csr.egg-info/SOURCES.txt
+csr.egg-info/dependency_links.txt
+csr.egg-info/entry_points.txt
+csr.egg-info/requires.txt
+csr.egg-info/top_level.txt
