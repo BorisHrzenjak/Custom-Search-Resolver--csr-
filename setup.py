@@ -15,7 +15,7 @@ setup(
         ],
     },
     author="Boris H",
-    description="Command-Line Search and Replace tool for Windows",
+    description="Custom Search Resolver - search tool for Windows command line",
     long_description=open("README.md").read(),
     long_description_content_type="text/markdown",
     python_requires=">=3.8",
