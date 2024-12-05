@@ -8,7 +8,6 @@ Description-Content-Type: text/markdown
 Requires-Dist: click>=8.0.0
 Requires-Dist: rich>=10.0.0
 Requires-Dist: pathlib>=1.0.1
-Requires-Dist: pywin32>=305
 
 # CSR (Custom Search Resolver)
 
