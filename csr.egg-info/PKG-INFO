@@ -1,13 +1,14 @@
 Metadata-Version: 2.1
 Name: csr
 Version: 0.1.0
-Summary: Command-Line Search and Replace tool for Windows
+Summary: Custom Search Resolver - search tool for Windows command line
 Author: Boris H
 Requires-Python: >=3.8
 Description-Content-Type: text/markdown
 Requires-Dist: click>=8.0.0
 Requires-Dist: rich>=10.0.0
 Requires-Dist: pathlib>=1.0.1
+Requires-Dist: pywin32>=305
 
 # CSR (Custom Search Resolver)
 
